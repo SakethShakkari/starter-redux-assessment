@@ -1,5 +1,4 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { selectSearchTerm } from "../search/search.slice";
 import photos from "./photos.data.js";
 
 const initialState = {
